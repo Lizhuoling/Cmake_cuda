@@ -1,4 +1,4 @@
-This is a demo of operating on cuda with C++. The demo is build with Cmake. 
+This is a demo of operating on cuda with C++. The demo is build with Cmake.    
 Author: Zhuoling Li
 
 # Requirement
